@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PowerAppActivity!</string>
+    <string name="app_name">PowerApp</string>
+    <string name="share_name">PowerApp</string>    
+
+</resources>
